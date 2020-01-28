@@ -1,0 +1,3 @@
+18:55:56,040  INFO testcases.Test001<strong>{1}</strong>:28 - URL Launched
+18:55:57,683  INFO testcases.Test001<strong>{1}</strong>:32 - Search Text entered in search box
+18:55:59,522  INFO testcases.Test001<strong>{1}</strong>:34 - Search Button Clicked
